@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Bryan
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Bryan Urban.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I research energy systems at [Fraunhofer CSE](http://cse.fraunhofer.org).
+- I volunteer with a solar power non-profit [STG International](http://www.stginternational.org)
+- I am into exploratory data analysis and visualization.
 
-What else do you need?
+See also:
+- [LinkedIN](https://www.linkedin.com/in/bryanurban)
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
